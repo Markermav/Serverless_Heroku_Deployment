@@ -1,0 +1,1 @@
+web :  gunicorn Modelcrud.wsgi --log-file
